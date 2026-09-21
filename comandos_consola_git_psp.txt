@@ -1,0 +1,18 @@
+pwd: ver directorio actual.
+
+git -v :  ver si esta descargado.
+
+git help log : ver ayuda (un poco malilla) usar mejor otra pagina.
+
+git clone enlace/URL (https://github.com/AlexSanzChicote/psp_alex_26_27 ):
+copia el repositorio  y se crea una carpeta en el equipo.
+
+cd carpeta (psp_alex_26_27) : meterse en la carpeta.
+
+ls -lalrtr : muestra la informacion oculta
+
+vi "algo".txt : le das a Esc para escribir y para guardar Esc y :wq
+
+git remote :  administrar las conexiones con nombre hacia otros repositorios alojados en servidores externos
+
+git remote -v : se utiliza para listar los repositorios remotos conectados a tu proyecto local
